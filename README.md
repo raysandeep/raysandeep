@@ -6,3 +6,7 @@
 - 💬  Ask me about Django
 - 📫  How to reach me: rayanuthalas@gmail.com
 - ⚡  Fun fact: I'm a ECE Student
+
+
+
+( Outdated, Lazy to update this. ) 
